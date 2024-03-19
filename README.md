@@ -1,12 +1,12 @@
-## About Me
+## Hello, my name is Anthony Lane Barnes
 
-Hello, my name is Anthony Lane Barnes.  I'm a DevOps Engineer with a background in System Administration.  I'm passionate about using technology to automate processes, streamline workflows, and solve complex technical challenges.
+I'm a DevOps Engineer with a background in System Administration.  I'm passionate about using technology to automate processes, streamline workflows, and solve complex technical challenges.
 
 ![Website](https://img.shields.io/badge/website-http%3A%2F%2Fanthonylanebarnes.com-blue?style=flat-square)
 
 ## Education and Skills
 
-Background: I have a diverse range of experience in system administration, DevOps engineering, and web development.
+I have a diverse range of experience in system administration, DevOps engineering, and web development.
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-DC3545?style=flat-square&logo=mysql&logoColor=white)
@@ -18,6 +18,8 @@ Background: I have a diverse range of experience in system administration, DevOp
 Personal Website: http://anthonylanebarnes.com/
 
 GitHub Projects: https://github.com/tempest918
+
+My most recent project was a site built on the Django framework.  A test environment is hosted here:  https://www.college-2-careers.com/ 
 
 ## Proficient Technologies
 Programming Languages: I'm comfortable with a variety of languages necessary for my work, I am mostly proficient in C# and Python, though.
