@@ -1,4 +1,4 @@
-## Hello, my name is Anthony Lane Barnes
+## Hello, my name is Anthony Barnes
 
 I'm a DevOps Engineer with a background in System Administration.  I'm passionate about using technology to automate processes, streamline workflows, and solve complex technical challenges.
 
