@@ -19,8 +19,6 @@ Personal Website: http://anthonylanebarnes.com/
 
 GitHub Projects: https://github.com/tempest918
 
-My most recent project was a site built on the Django framework.  A test environment is hosted here:  https://www.college-2-careers.com/ 
-
 ## Proficient Technologies
 Programming Languages: I'm comfortable with a variety of languages necessary for my work, I am mostly proficient in C# and Python, though.
 Frameworks: I've worked with frameworks related to web development and automation.
