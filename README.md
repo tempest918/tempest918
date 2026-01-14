@@ -2,7 +2,7 @@
 
 I'm a DevOps Engineer with a background in System Administration.  I'm passionate about using technology to automate processes, streamline workflows, and solve complex technical challenges.
 
-![Website](https://img.shields.io/badge/website-http%3A%2F%2Fanthonylanebarnes.com-blue?style=flat-square)
+![Website](https://img.shields.io/badge/website-http%3A%2F%2Fanthonylanebarnes.com-blue?style=flat-square&link=https%3A%2F%2Fanthonylanebarnes.com)
 
 ## Education and Skills
 
