@@ -30,7 +30,7 @@ I specialize in designing secure, scalable cloud-native architectures and automa
 ---
 
 ## 🎓 Education
-- **MSSE (DevOps)** | Western Governor's University | *Anticipated 2026*
+- **MSSE (DevOps)** | Western Governor's University | *2026*
 - **BSSE** | Western Governor's University | *2025*
 - **AS, Soft. Dev.** | Ivy Tech Community College | *2024*
 
