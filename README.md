@@ -1,7 +1,7 @@
 # Hi there, I'm Anthony Barnes! 👋
 
 ### DevSecOps Engineer & Cloud Architect
-I specialize in designing secure, scalable cloud-native architectures and automating complex CI/CD pipelines. Currently focused on refactoring monolithic systems into decoupled microservices and implementing robust SAST/DAST security frameworks.
+I specialize in designing secure, scalable cloud-native architectures and automating complex CI/CD pipelines. Currently focused on using technology to automate processes, streamline workflows, and solve complex technical challenges.
 
 
 [![Website](https://img.shields.io/badge/Website-anthonylanebarnes.com-blue?style=for-the-badge&logo=readme&logoColor=white)](https://anthonylanebarnes.com)
